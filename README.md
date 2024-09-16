@@ -1,8 +1,10 @@
 # Algorithmes et structures de données // Algorithms and data structures
 
+
 🇬🇧 version :
 ### Algorithms for the detection of polygon's inclusions
 This project focuses on developing algorithms to find the smallest inclusion of one polygon within another. Starting with a basic naive algorithm that checks all polygons, it progresses through various optimizations, including surface-based sorting and the use of polygon quadrants for further efficiency. The goal is to optimize the inclusion algorithm to handle more complex datasets with better performance. Multiple time complexity tests have been conducted to analyze performance, alongside theoretical complexity studies using polygon generators sourced from GitHub. The results demonstrate significant improvements in computational speed, making these algorithms applicable for advanced geometric analysis in both academic and practical contexts.
+
 
 🇫🇷 version :
 ### Algorithmes pour la détection d'inclusion de polygones
